@@ -38,7 +38,7 @@ El menú principal se divide en tres secciones: Archivo, Editar y Ayuda. Cada se
 - Manual de Usuario: Proporciona acceso a un manual que explica las funcionalidades y características del editor.
 - Integrantes: Muestra la información de los miembros del equipo responsable del desarrollo de la aplicación.
   
-## Uso del Editor de Documentos
+## Uso del Editor de Archivos de Texto
 **1. Abrir un Archivo**
 
 Para abrir un archivo:
